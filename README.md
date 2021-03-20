@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there folks 👋
+![Uttkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uttkarsh09&theme=vision-friendly-dark&show_icons=true)<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttkarsh09&theme=vision-friendly-dark)
 
 <!--
 **Uttkarsh09/Uttkarsh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
